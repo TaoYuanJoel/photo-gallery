@@ -31,34 +31,34 @@
 
 #index-gallery .call {
     grid-area: call;
-    background-image: url("/img/img1.jpg");
+    background-image: url("img/img1.jpg");
 }
 
 #index-gallery .last {
     grid-area: last;
-    background-image: url("/img/img2.jpg");
+    background-image: url("img/img2.jpg");
     background-position: -120px 0;
 }
 
 #index-gallery .res7 {
     grid-area: res7;
-    background-image: url("/img/img3.jpg");
+    background-image: url("img/img3.jpg");
 }
 
 #index-gallery .res5 {
     grid-area: res5;
-    background-image: url("/img/img4.jpg");
+    background-image: url("img/img4.jpg");
 }
 
 #index-gallery .watch {
     grid-area: watch;
-    background-image: url("/img/img5.jpg");
+    background-image: url("img/img5.jpg");
     background-position: -20px 0;
 }
 
 #index-gallery .tomb {
     grid-area: tomb;
-    background-image: url("/img/img6.jpg");
+    background-image: url("img/img6.jpg");
     background-position: -160px 0;
 }
 

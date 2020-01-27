@@ -25,7 +25,7 @@ if (galleryImages) {
             //new gif
             let newGif = document.createElement("img")
             newGifWindow.appendChild(newGif);
-            newGif.setAttribute('src', '/gif/' + setGifUrl);
+            newGif.setAttribute('src', 'gif/' + setGifUrl);
             newGif.setAttribute('id', "current-image");
             //new audio
             let newAudio = document.createElement('audio')
@@ -35,7 +35,7 @@ if (galleryImages) {
             newAudio.load();
             let newSrc = document.createElement('source')
             newAudio.appendChild(newSrc);
-            newSrc.setAttribute('src', '/music/' + setBGMUrl);
+            newSrc.setAttribute('src', 'music/' + setBGMUrl);
             newAudio.setAttribute('id', "current-bgm");
 
             newGif.onload = function () {
