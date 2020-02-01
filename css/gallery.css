@@ -37,7 +37,7 @@
 #index-gallery .last {
     grid-area: last;
     background-image: url("../img/img2.jpg");
-    background-position: -120px 0;
+    background-position: -110px 0;
 }
 
 #index-gallery .res7 {
@@ -59,7 +59,7 @@
 #index-gallery .tomb {
     grid-area: tomb;
     background-image: url("../img/img6.jpg");
-    background-position: -160px 0;
+    background-position: -105px 5px;
 }
 
 /* Gallery image titles */
